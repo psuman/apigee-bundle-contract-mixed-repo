@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ResponseCache async="false" continueOnError="false" enabled="true" name="Response-Cache-1">
-    <DisplayName>Response-Cache-1</DisplayName>
+<ResponseCache async="false" continueOnError="false" enabled="true" name="RC-ResponseCache">
+    <DisplayName>RC-ResponseCache</DisplayName>
     <Properties/>
     <CacheKey>
         <Prefix/>
@@ -14,5 +14,5 @@
     </ExpirySettings>
     <SkipCacheLookup/>
     <SkipCachePopulation/>
-    <ExcludeErrorResponse>false</ExcludeErrorResponse>
+    <ExcludeErrorResponse>true</ExcludeErrorResponse>
 </ResponseCache>

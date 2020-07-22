@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<FlowCallout async="false" continueOnError="false" enabled="true" name="FC-OAuth-Auth">
-    <DisplayName>FC-OAuth-Auth</DisplayName>
-    <FaultRules/>
-    <Properties/>
-    <SharedFlowBundle>OAuth-Authentication</SharedFlowBundle>
-</FlowCallout>
