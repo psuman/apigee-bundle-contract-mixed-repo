@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FlowCallout async="false" continueOnError="false" enabled="true" name="FC-API-Key-Auth">
+    <DisplayName>FC-API-Key-Auth</DisplayName>
+    <FaultRules/>
+    <Properties/>
+    <SharedFlowBundle>API-Key-Authentication</SharedFlowBundle>
+</FlowCallout>

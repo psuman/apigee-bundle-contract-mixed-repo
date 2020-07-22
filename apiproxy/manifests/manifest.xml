@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Basic-Authentication" version="SHA-512:a4a3f6689957bd83594a1cdf6934017f43fda10564d680f546f39f65ad465b7790179926c01f2ba35e3c23af1adcb669c31ed9b9d027a52b709c01fd18424b7e"/>
+        <VersionInfo resourceName="FC-API-Key-Auth" version="SHA-512:3a76c79ce95714e872b28a7b7439038ff57d204706446bb66d16ac6848ad55b0561e07939b549d3080293635b8953b9b321d4f480ed781705aa13478a2b6df1a"/>
+        <VersionInfo resourceName="FC-OAuth-Auth" version="SHA-512:a3257f8164d408980405ea3daa31c9b187e33b32dee9ed92b2d896418a8d74fb7c6d55a2f428916403012b683568956a3bd45456cac382913b408324a497e272"/>
+        <VersionInfo resourceName="FC-SOAPAuth" version="SHA-512:692e03b2868c1478ae65645126d59c40d959720aebf11e1192abdc56ae1f2f457d39e91c814b0176a38cdd5ec95601316d6460dee83b894aa06c9774df82a1fa"/>
+        <VersionInfo resourceName="add-cors" version="SHA-512:6564f0efbc28ff44ce078c098c1cbb8ad88813949dc305a80695a08e6e0832bc246bd31b9f8d7c5b5c9800f56585b96796079a2172280b371d0f1bb66c1b5d67"/>
+        <VersionInfo resourceName="check-quota" version="SHA-512:a4b6b3492b41a3dd0b5144ca1fab34efad5899be023a468832fb03af3afe78a5dfd9293bf2060e3124949737966a58e82f79a2eaa4f16872e8e9e77191a293fa"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:fa04a9cd7a0d4e99d544cfdc481e3f3b5467d21fa52aef1ce1f29398472e010f4213fa3e7c55321d8012baa041e79a96ac949fbb241cd62891532f06b67384a3"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:87de245aa7dc07365df3fec2c2742c0a00b23d9213396a8973ff19912ef4c9d87a178d800c5541616f0666542d77b907fb1015be99b8904fd43328b2e5646efb"/>
+    </TargetEndpoints>
+</Manifest>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="helloworld-auth-tester">
+    <Basepaths>/v0/hello-authed</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1531755127962</CreatedAt>
+    <CreatedBy>patrick.chipman@vanick.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>helloworld-authed</DisplayName>
+    <LastModifiedAt>1531939122896</LastModifiedAt>
+    <LastModifiedBy>patrick.chipman@vanick.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:265d0b3ec96e3e2d11d1511f75931eb59699f735394dc2d4ad554f093eac800078f193f8c7aac265b6d587c795413a34d5eb23c0672f6863a685909bcaad21b4</ManifestVersion>
+    <Policies>
+        <Policy>Basic-Authentication</Policy>
+        <Policy>FC-API-Key-Auth</Policy>
+        <Policy>FC-OAuth-Auth</Policy>
+        <Policy>FC-SOAPAuth</Policy>
+        <Policy>add-cors</Policy>
+        <Policy>check-quota</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FlowCallout async="false" continueOnError="false" enabled="true" name="FC-SOAPAuth">
+    <DisplayName>FC-SOAPAuth</DisplayName>
+    <FaultRules>
+    <FaultRule />
+    </FaultRules>
+    <Properties/>
+    <SharedFlowBundle>SOAP-UsernameToken-Authentication</SharedFlowBundle>
+</FlowCallout>
