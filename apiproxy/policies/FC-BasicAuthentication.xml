@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<FlowCallout async="false" continueOnError="false" enabled="true" name="Basic-Authentication">
-    <DisplayName>fc-Basic-Authentication</DisplayName>
+<FlowCallout async="false" continueOnError="false" enabled="true" name="FC-BasicAuthentication">
+    <DisplayName>FC-BasicAuthentication</DisplayName>
     <FaultRules/>
     <Properties/>
     <SharedFlowBundle>Basic-Authentication</SharedFlowBundle>

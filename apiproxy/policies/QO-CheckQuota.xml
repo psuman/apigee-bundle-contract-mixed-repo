@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Quota async="false" continueOnError="false" enabled="true" name="check-quota" type="calendar">
-    <DisplayName>Check Quota</DisplayName>
+<Quota async="false" continueOnError="false" enabled="true" name="QO-CheckQuota" type="calendar">
+    <DisplayName>QO-CheckQuota</DisplayName>
     <Properties/>
     <Allow count="5" countRef="request.header.allowed_quota"/>
     <Interval ref="request.header.quota_count">1</Interval>
